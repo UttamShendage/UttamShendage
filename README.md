@@ -37,11 +37,7 @@ Find out more about me & feel free to connect with me here:
 
 ---
 
----
-
-<!-- ![Uttam's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=pummysh&hide_border=true&theme=redical) -->
-
----
+![Uttam's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=pummysh&hide_border=true&theme=redical)
 
 ---
 
