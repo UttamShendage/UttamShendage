@@ -2,16 +2,9 @@
 
 I am an aspriring Experienced Full Stack Developer | Angular Expert. I am always open to collaborating on projects with innovative ideas and great problem solving manner.
 
-Greetings! I am a highly experienced Full Stack Developer with over 5 years of dedicated focus on Angular development.
-
-My true passion lies in the art of crafting seamless web applications that captivate and engage users. I've dedicated myself to becoming a master of Angular, along with the essential technologies such as TypeScript, HTML, CSS, Bootstrap, JavaScript, and an array of other web development tools.
-
-Creating interactive software has always been my forte. With the dawn of the modern Internet, I uncovered a newfound passion for web development and programming. Each line of code is an opportunity to build upon previous solutions while adhering to the timeless wisdom of "what works."
-
 My unwavering confidence in my abilities serves as the driving force behind my work, empowering me to make substantial contributions to our projects. Together, we can achieve exceptional results.
 
 Let's connect and embark on this exciting journey of possibilities!
-
 
 Find out more about me & feel free to connect with me here:
 
