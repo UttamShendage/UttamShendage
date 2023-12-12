@@ -1,6 +1,6 @@
 # Hey, I am Uttam Shendage! Great to see you here! <img src="./wave.gif" width="30px">
 
-I am Uttam Shendage, I am an aspriring Full Stack web developer I am always open to collaborating on projects with innovative ideas and great problem solving manner.
+I am an aspriring Full Stack web developer I am always open to collaborating on projects with innovative ideas and great problem solving manner.
 
 Find out more about me & feel free to connect with me here:
 
