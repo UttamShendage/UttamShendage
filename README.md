@@ -24,7 +24,7 @@ Find out more about me & feel free to connect with me here:
 <!-- 	<a href="https://dev.to/raman_boddula">
 		<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 	</a> -->
-        <a href="#" target="_blank">
+        <a href="https://uttamshendage.netlify.app/" target="_blank">
 		<img src="https://img.shields.io/badge/portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" />
 	</a>
 	<a href="#">
@@ -34,10 +34,6 @@ Find out more about me & feel free to connect with me here:
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
 </p>
-
----
-
-[Uttam's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=pummysh&hide_border=true&theme=redical)
 
 ---
 
