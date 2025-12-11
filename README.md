@@ -18,7 +18,7 @@ I'm passionate about building scalable, performant web applications with modern 
   <a href="https://www.instagram.com/uttam_shendage_us7/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://uttamshendage.netlify.app/" target="_blank">
+  <a href="https://personal-portfolio-89f3c.web.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
   <a href="mailto:uvshendage@gmail.com" target="_blank">
